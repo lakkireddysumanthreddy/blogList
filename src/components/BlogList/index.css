@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.blog-heading {
+  font-size: 25px;
+}
+
+.flex-items {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.blog-description {
+  color: #616e7c;
+}
+
+.blog-publishedDate {
+  color: #9aa5b1;
+  align-self: center;
+}
+
+.line {
+  height: 1px;
+  background-color: #9aa5b1;
+  margin-right: 10px;
+}
